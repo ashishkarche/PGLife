@@ -4,7 +4,7 @@ body {
 }
 
 .searchbar {
-    background-image: url(img/bg.png);
+    background-image: url(../img/bg.png);
     background-size: cover;
     height: 600px;
 }
